@@ -1,4 +1,4 @@
-##📡 Network Latency Visualizer (Live)
+## Network Latency Visualizer (Live)
 
 A Java Swing–based desktop application that monitors and visualizes network latency in real time using system-level ping commands. The application allows users to add multiple hosts (IP addresses or domain names) and displays live round-trip time (RTT) trends through dynamically updating line graphs.
 
